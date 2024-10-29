@@ -1,0 +1,3 @@
+displayName = Soup&#39;s Expansion
+author = SoupLord
+version = 0.1
